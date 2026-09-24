@@ -1,11 +1,14 @@
 import { mutation } from "./_generated/server";
+import { v } from "convex/values";
 
 export const seedInitialData = mutation({
-  args: {},
-  handler: async (ctx) => {
+  args: {
+    force: v.optional(v.boolean()),
+  },
+  handler: async (ctx, args) => {
     // Check if already seeded
     const usersCount = (await ctx.db.query("users").collect()).length;
-    if (usersCount > 0) {
+    if (usersCount > 0 && !args.force) {
       return { message: "Database already populated.", seeded: false };
     }
 
