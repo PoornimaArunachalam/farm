@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "company_profile_1",
+    "userId": "user_company_1",
+    "companyName": "ABC Foods Pvt Ltd",
+    "email": "procure@abcfoods.com",
+    "phone": "+91 9123456780",
+    "logo": "https://images.unsplash.com/photo-1560179707-f14e90ef3623?auto=format&fit=crop&q=80&w=300",
+    "companyType": "Food Processor",
+    "address": "142 SIDCO Industrial Estate",
+    "district": "Virudhunagar",
+    "state": "Tamil Nadu",
+    "description": "Leading agro-processing and sauce manufacturing unit sourcing fresh farm produce.",
+    "website": "https://abcfoods-agro.example.com",
+    "createdAt": 1788536641005,
+    "updatedAt": 1790264641005
+  },
+  {
+    "_id": "company_profile_2",
+    "userId": "user_company_2",
+    "companyName": "GreenFresh Agri Logistics",
+    "email": "contact@greenfresh.com",
+    "phone": "+91 9123456781",
+    "logo": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&q=80&w=300",
+    "companyType": "Wholesaler & Exporter",
+    "address": "88 Ring Road Agro Park",
+    "district": "Madurai",
+    "state": "Tamil Nadu",
+    "description": "Direct farm-to-supermarket cold chain distributor supplying 200+ retail stores.",
+    "website": "https://greenfresh-logistics.example.com",
+    "createdAt": 1788709441005,
+    "updatedAt": 1790264641005
+  },
+  {
+    "_id": "company_profile_3",
+    "userId": "user_company_3",
+    "companyName": "Tamil Agro Industries",
+    "email": "trade@tamilagro.com",
+    "phone": "+91 9123456782",
+    "logo": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=300",
+    "companyType": "Manufacturer",
+    "address": "55 Sipcot Industrial Complex",
+    "district": "Thoothukudi",
+    "state": "Tamil Nadu",
+    "description": "Industrial processor of cotton yarns, seed oil extraction, and bulk flour milling.",
+    "website": "https://tamilagroind.example.com",
+    "createdAt": 1789227841005,
+    "updatedAt": 1790264641005
+  }
+]

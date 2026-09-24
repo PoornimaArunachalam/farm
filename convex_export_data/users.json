@@ -1,0 +1,90 @@
+[
+  {
+    "_id": "user_admin_1",
+    "email": "poornima@gmail.com",
+    "phone": "+91 9876543200",
+    "passwordHash": "seed_hash_poornima",
+    "salt": "salt_admin",
+    "role": "admin",
+    "isActive": true,
+    "createdAt": 1787672641005,
+    "updatedAt": 1790264641005
+  },
+  {
+    "_id": "user_farmer_1",
+    "email": "raj.kumar@agriconnect.com",
+    "phone": "+91 9876543210",
+    "passwordHash": "seed_hash_farmer123",
+    "salt": "salt_f1",
+    "role": "farmer",
+    "isActive": true,
+    "createdAt": 1788968641005,
+    "updatedAt": 1790264641005
+  },
+  {
+    "_id": "user_farmer_2",
+    "email": "priya.sharma@agriconnect.com",
+    "phone": "+91 9876543211",
+    "passwordHash": "seed_hash_farmer123",
+    "salt": "salt_f2",
+    "role": "farmer",
+    "isActive": true,
+    "createdAt": 1789400641005,
+    "updatedAt": 1790264641005
+  },
+  {
+    "_id": "user_farmer_3",
+    "email": "arun.patel@agriconnect.com",
+    "phone": "+91 9876543212",
+    "passwordHash": "seed_hash_farmer123",
+    "salt": "salt_f3",
+    "role": "farmer",
+    "isActive": true,
+    "createdAt": 1789573441005,
+    "updatedAt": 1790264641005
+  },
+  {
+    "_id": "user_farmer_4",
+    "email": "meena.devi@agriconnect.com",
+    "phone": "+91 9876543213",
+    "passwordHash": "seed_hash_farmer123",
+    "salt": "salt_f4",
+    "role": "farmer",
+    "isActive": true,
+    "createdAt": 1789832641005,
+    "updatedAt": 1790264641005
+  },
+  {
+    "_id": "user_company_1",
+    "email": "procure@abcfoods.com",
+    "phone": "+91 9123456780",
+    "passwordHash": "seed_hash_company123",
+    "salt": "salt_c1",
+    "role": "company",
+    "isActive": true,
+    "createdAt": 1788536641005,
+    "updatedAt": 1790264641005
+  },
+  {
+    "_id": "user_company_2",
+    "email": "contact@greenfresh.com",
+    "phone": "+91 9123456781",
+    "passwordHash": "seed_hash_company123",
+    "salt": "salt_c2",
+    "role": "company",
+    "isActive": true,
+    "createdAt": 1788709441005,
+    "updatedAt": 1790264641005
+  },
+  {
+    "_id": "user_company_3",
+    "email": "trade@tamilagro.com",
+    "phone": "+91 9123456782",
+    "passwordHash": "seed_hash_company123",
+    "salt": "salt_c3",
+    "role": "company",
+    "isActive": true,
+    "createdAt": 1789227841005,
+    "updatedAt": 1790264641005
+  }
+]
